@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import Logo from "../assets/Logoheader.svg";
+import Logo from "../assets/LogoHeader.svg";
 
 import { useState } from "react";
 
